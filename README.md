@@ -1,30 +1,58 @@
-Hi, I’m Aayush Kumar 👋
-AI Engineer & Researcher | Building Autonomous Agents & Startups
+# Hi there, I’m Aayush Kumar 👋
 
-I bridge the gap between cutting-edge AI research and production-grade applications. My current focus is on Agentic AI, Multi-Agent Systems, and implementing post-transformer architectures (Mamba, BitNet). I build systems that don't just predict—they act.
+### 🚀 AI Engineer | Building Autonomous Agents & Scalable RAG Systems
 
-🚀 What I'm Building Now
+I am a results-driven AI/ML Engineer focused on bridging the gap between research and production. I specialize in building **Agentic Workflows**, **High-Performance RAG Pipelines**, and **Autonomous Systems**.
 
-Autonomous Multi-Agent Systems: Orchestrating swarms of agents (Sentinel, Sniper, Risk Boss) for algorithmic trading.
+Currently, I am moving beyond simple chatbots to create multi-agent swarms that reason, plan, and execute complex tasks in real-time.
 
-AI SaaS Products: Developing IntervuAI, an autonomous AI interviewer agent.
+---
 
-Research Implementation: Reproducing results from top-tier papers (BitNet, VL-JEPA) to understand the future of compute-efficient AI.
+### 🛠️ Technical Arsenal
 
-🛠️ Tech Stack
+| Domain | Technologies |
+| :--- | :--- |
+| **AI & NLP** | **RAG**, LangChain, LangGraph, LlamaIndex, Transformers (HuggingFace), OpenAI API |
+| **Backend & API** | **FastAPI**, Docker, Python (Async/Await), WebSocket, REST APIs |
+| **Full Stack** | **MERN Stack** (MongoDB, Express, React, Node.js), Streamlit |
+| **Core ML** | PyTorch, TensorFlow, Computer Vision (YOLOv8, MediaPipe), Scikit-learn |
+| **DevOps & Cloud** | AWS (EC2, S3), Git, CI/CD, Vector Databases (ChromaDB/Pinecone) |
 
-AI & NLP: LangChain, LangGraph, Transformers, HuggingFace, PyTorch, TensorFlow.
+---
 
-Full Stack: MERN Stack (MongoDB, Express, React, Node.js), FastAPI, Docker.
+### 📂 Featured Projects
 
-Cloud & DevOps: AWS, Git, CI/CD pipelines.
+#### 🧠 [RAG-Powered Knowledge Assistant](YOUR_LINK_HERE)
+*A high-performance retrieval system built with FastAPI.*
+* **Architecture:** Built a scalable **RAG pipeline** that ingests documents, creates vector embeddings, and retrieves precise context for LLM generation.
+* **Performance:** Optimized using **FastAPI** for asynchronous request handling, ensuring low-latency responses even with heavy retrieval loads.
+* **Tech:** FastAPI, LangChain, Vector DBs, Docker.
 
-📂 Featured Projects
+#### 🤖 [Autonomous AI Trading Swarm](YOUR_LINK_HERE)
+*A multi-agent system that trades crypto autonomously.*
+* **System:** Orchestrated a swarm of specialized agents (Sentinel, Sniper, Risk Boss) that collaborate to analyze market trends and execute trades.
+* **Logic:** Implements "Smart Money Concepts" and risk management algorithms entirely without human intervention.
+* **Tech:** Python, LangGraph, Financial APIs.
 
-🤖 Autonomous AI Trading Swarm: A multi-agent crypto trading system using specialized agents for trend analysis, execution, and risk management.
+#### 💼 [IntervuAI - Autonomous Interviewer](YOUR_LINK_HERE)
+*An AI agent that conducts technical interviews.*
+* **Function:** An autonomous voice-enabled agent that interviews candidates, evaluates their code/responses in real-time, and generates feedback reports.
+* **Tech:** Generative AI, Speech-to-Text (Whisper), Text-to-Speech.
 
-💼 IntervuAI: A generative AI platform that conducts autonomous technical interviews and provides real-time feedback.
+---
 
-🌍 Deep Past Translator: Fine-tuning ByT5 models for low-resource machine translation (Kaggle).
+### ⚡ Current Focus
+* **Research:** Implementing post-transformer architectures (like **Mamba** & **BitNet**) to understand compute-efficient AI.
+* **Mastery:** Crushing the **Blind 75** DSA list for algorithm optimization.
+* **Goal:** Building fault-tolerant AI systems that can operate indefinitely without supervision.
 
-🧠 DevOps Assistant: An agentic workflow to analyze codebases and auto-fix bugs.
+---
+
+<div align="center">
+  <a href="https://linkedin.com/in/aayush-kumar-49082a2a3">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>
