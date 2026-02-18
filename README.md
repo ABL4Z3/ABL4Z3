@@ -1,43 +1,30 @@
-👋 Hi, I’m Aayush Kumar
-I'm a results-driven and passionate AI/ML Engineer with hands-on expertise in building end-to-end AI solutions, from data preprocessing and model optimization to API integration and deployment. My focus is on leveraging cutting-edge technologies like LLMs, Computer Vision, and NLP to solve real-world challenges.
+Hi, I’m Aayush Kumar 👋
+AI Engineer & Researcher | Building Autonomous Agents & Startups
 
-🚀 What I Do
-🧠 Develop & Deploy AI/ML Models: Building and fine-tuning models for tasks like object detection, speech emotion recognition, and predictive analysis, achieving over 90% accuracy.
+I bridge the gap between cutting-edge AI research and production-grade applications. My current focus is on Agentic AI, Multi-Agent Systems, and implementing post-transformer architectures (Mamba, BitNet). I build systems that don't just predict—they act.
 
-🤖 Build Intelligent Automation: Creating smart, automated systems using LLMs and tools like FastAPI and LangChain to improve efficiency and reduce manual effort.
+🚀 What I'm Building Now
 
-☁️ Integrate & Scale: Skilled in API integration, cloud workflows (AWS), and deploying scalable applications with Docker.
+Autonomous Multi-Agent Systems: Orchestrating swarms of agents (Sentinel, Sniper, Risk Boss) for algorithmic trading.
 
-👁️ Computer Vision & NLP: Implementing solutions for real-time gesture recognition, document analysis (OCR), and natural language understanding.
+AI SaaS Products: Developing IntervuAI, an autonomous AI interviewer agent.
 
-🛠️ My Tech Stack
-Programming: Python | Java | SQL | C | HTML | CSS
+Research Implementation: Reproducing results from top-tier papers (BitNet, VL-JEPA) to understand the future of compute-efficient AI.
 
-Frameworks & Tools: FastAPI | Flask | LangChain | LangGraph | Streamlit | OpenCV | MediaPipe
+🛠️ Tech Stack
 
-ML/AI Libraries: Scikit-learn | TensorFlow | PyTorch | XGBoost | Pandas | NumPy | Matplotlib | Seaborn
+AI & NLP: LangChain, LangGraph, Transformers, HuggingFace, PyTorch, TensorFlow.
 
-Cloud & DevOps: AWS (S3, EC2) | Docker | Git | GitHub | VS Code | Jupyter Notebook
+Full Stack: MERN Stack (MongoDB, Express, React, Node.js), FastAPI, Docker.
 
-Projects Showcase
-Here are some of the projects I'm proud of:
+Cloud & DevOps: AWS, Git, CI/CD pipelines.
 
-🤖 AI-Powered Object & Finger Counter: A real-time object and gesture recognition system using YOLOv8 and MediaPipe with 90%+ accuracy.
+📂 Featured Projects
 
-🗣️ Empathy AI - Speech Emotion Recognition: An assistant that recognizes emotions from speech using LangChain, with multilingual translation capabilities and 92% accuracy.
+🤖 Autonomous AI Trading Swarm: A multi-agent crypto trading system using specialized agents for trend analysis, execution, and risk management.
 
-📄 OCR + LLM Document Chatbot: A FastAPI and Streamlit app that uses Tesseract OCR and LLMs to allow users to "chat" with their documents.
+💼 IntervuAI: A generative AI platform that conducts autonomous technical interviews and provides real-time feedback.
 
-🌱 Smart Crop Recommender: An ML-powered system that recommends crops with 98% accuracy based on real-time soil and weather data.
+🌍 Deep Past Translator: Fine-tuning ByT5 models for low-resource machine translation (Kaggle).
 
-✍️ AI Form Assistant: A conversational assistant powered by an LLM that reduces manual form entry time by 70% by integrating with the Google Sheets API.
-
-🌱 I’m currently diving deeper into advanced model optimization techniques and exploring scalable MLOps practices.
-
-💞️ I’m looking to collaborate on innovative projects that leverage Computer Vision, NLP, and LLMs to create impactful solutions.
-
-📫 Feel free to reach out to me on LinkedIn or check out my other projects on GitHub.
-
-😄 Pronouns: He/Him
-
-⚡ Fun Fact: The term “bug” in computing originated when a moth was found causing a malfunction in the Mark II computer at Harvard University!
+🧠 DevOps Assistant: An agentic workflow to analyze codebases and auto-fix bugs.
