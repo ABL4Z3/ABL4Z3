@@ -77,5 +77,5 @@ Multilingual speech emotion detection and empathetic response system integrating
 
 ---
 
-📄 Research Paper DOI
-10.13140/RG.2.2.11793.39526
+📄 Research Paper
+DOI: 10.13140/RG.2.2.11793.39526
