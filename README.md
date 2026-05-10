@@ -14,6 +14,11 @@ Beyond research, I build applied AI systems involving:
 * Speech & Multimodal AI Systems
 * Scalable FastAPI-based AI backends
 
+
+---
+
+Portfolio web:- https://tech-innovator-76.preview.emergentagent.com/ 
+
 ---
 
 ## 🛠 Technical Stack
