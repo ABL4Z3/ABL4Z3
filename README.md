@@ -53,7 +53,9 @@ Beyond research, I build applied AI systems involving:
 ### 🧠 NeuroCache
 
 Research project focused on memory-efficient transformer training under low-VRAM GPU environments using controlled activation offloading strategies.
-DOI: 10.13140/RG.2.2.11793.39526
+
+Research Paper:-
+[DOI: 10.13140/RG.2.2.11793.39526](https://www.researchgate.net/publication/404466007_NeuroCache_Budget-Constrained_Activation_Offloading_for_Low-VRAM_Transformer_Training)
 
 ### 🤖 Trading Swarm
 
