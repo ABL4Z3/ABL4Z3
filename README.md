@@ -65,6 +65,8 @@ Production-oriented AI trading infrastructure with modular strategy execution, r
 
 LLM-powered interview platform capable of question generation, response evaluation, and structured AI-driven feedback workflows.
 
+Live:- https://interview-ai-frontend-e5o26ydjv-aayush-kumars-projects-1ae66488.vercel.app/
+
 ### 🎙 Voice Emotion Assistant
 
 Multilingual speech emotion detection and empathetic response system integrating speech processing and LLM workflows.
