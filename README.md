@@ -17,7 +17,7 @@ Beyond research, I build applied AI systems involving:
 
 ---
 
-Portfolio web:- https://tech-innovator-76.preview.emergentagent.com/ 
+Portfolio web:- [https://tech-innovator-76.preview.emergentagent.com/ ](https://aayush-kumar-portfolio.vercel.app/)
 
 ---
 
